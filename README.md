@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asif Kamal</h1>
 <h3 align="center">A passionate developer from India. a B.E. 2026 student passionate about building scalable backend systems, frontend, Cloud Computing, functional programming, and data-driven product engineering. I love exploring how clean abstractions, intelligent data systems, and distributed architectures can power products used by millions of users daily.</h3>
 
-- 🔭 I’m currently working on **CogniLife: Multimodal Human Behavior Analysis and Preventive Health Risk Prediction with Dopamine-Aware Modeling Using Explainable AI (SHAP & LIME) **
+- 🔭 I’m currently working on ** CogniLife: Multimodal Human Behavior Analysis and Preventive Health Risk Prediction with Dopamine-Aware Modeling Using Explainable AI (SHAP & LIME) **
 
 - 📫 How to reach me **asif912004@gmail.com**
 
